@@ -1,15 +1,29 @@
 {
   "profile": 
   {
-    "id": 1,
     "name": "Fragkou Dimitra",
     "e-mail": "dimitra@gmail.com"
-  }
-  ,
+  },
   "to-do-list": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "flexbox",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "title": "hooks-react",
+      "status":"almost-done"
+    },
+    {
+      "id": 3,
+      "title": "react-navigation",
+      "status":"done"
+    },
+    {
+      "id": 4,
+      "title": "react-query",
+      "status":"not done"
+    },
   ],
 }
