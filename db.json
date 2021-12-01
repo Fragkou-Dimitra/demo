@@ -21,6 +21,9 @@
       "status":"not done"
     }
   ],
-  "name": "Fragkou Dimitra",
-  "e-mail": "dimitra@gmail.com"
+   "profile": 
+  {
+    "name": "Fragkou Dimitra",
+    "e-mail": "dimitra@gmail.com"
+  }
 }
