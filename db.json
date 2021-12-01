@@ -1,4 +1,6 @@
 {
+  "name": "Fragkou Dimitra",
+  "e-mail": "dimitra@gmail.com",
   "to-do-list": [
     {
       "id": 1,
@@ -20,10 +22,5 @@
       "title": "react-query",
       "status":"not done"
     }
-  ],
-   "profile": 
-  {
-    "name": "Fragkou Dimitra",
-    "e-mail": "dimitra@gmail.com"
-  }
+  ]
 }
