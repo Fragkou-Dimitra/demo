@@ -1,11 +1,15 @@
 {
-  "posts": [
+  "profile": [
+  {
+    "id": 1,
+    "name": "Fragkou Dimitra",
+    "e-mail": "dimitra@gmail.com"
+  }
+  ],
+  "to-do-list": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "Fragkou Dimitra"
-  }
 }
